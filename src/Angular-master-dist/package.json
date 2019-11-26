@@ -2,7 +2,7 @@
   "name": "angular-azure",
   "version": "0.0.0",
   "scripts": {
-    "gitbuild":"ng build --prod --base-href /start-angular/SB-Admin-BS4-Angular-7/master/dist/",
+    "gitbuild": "ng build --prod",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build --prod",
